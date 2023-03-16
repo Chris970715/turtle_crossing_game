@@ -10,7 +10,9 @@ Welcome to the Turtle Crossing Game!
 Here are the rules:
 
 1.Use the up arrow key on your keyboard to move the turtle forward.
+
 2.The turtle can only move forward and cannot move backward or sideways.
+
 3.Avoid collisions with the passing cars on the road. If the turtle collides with a car, the game is over.
 
 Good luck and have fun playing!
